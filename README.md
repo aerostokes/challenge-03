@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-Access the website at https://aerostokes.github.io/passsword-generator_challenge-03/
+Access the website at https://aerostokes.github.io/passsword-generator/
 
 Click "Generate Password" and answer the prompts for desired password length and whether to include lower case letter, upper case letters, numbers, and/or special characters.
 
